@@ -1,5 +1,5 @@
 # Muskeln und Gelenke
-Hier findest du eine kurze Einführung in die Benutzeroberfläche des **App Labors** von **Code.org**
+Hier findest du keine kurze Einführung in die Benutzeroberfläche des **App Labors** von **Code.org**
 
 ## Registrierung
 Um das App Lab benutzen zu können, musst du dich zunächst bei **Code.org** registieren.

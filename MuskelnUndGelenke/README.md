@@ -1,9 +1,9 @@
-# Unterrichtsmaterial für das App Labor von Code.org
-In diesem Repository findest du Unterrichtsmaterial für das App Labor von code.org.
+# Unterrichtsmaterial für NWT 5. Klasse
+In diesem Repository findest du Unterrichtsmaterial 
 
-Hast du einen Fehler gefunden oder möchtest eine Verbesserung einpflegen, freue ich mich auf einen Pull Request, einen Eintrag unter Issue oder eine klassische [Mail](mailto:m.siemering.edu@gmail.com)
+Hast du einen Fehler gefunden oder möchtest eine Verbesserung einpflegen, freue ich mich auf einen Pull Request, einen Eintrag unter Issue oder eine klassische [Mail](mailto:torsten.otto@kkg.hamburg.de)
 
-**Du bist Schüler&#42;in** und möchtest in die Lernendenansicht wechseln, dann gehe auf [https://mrsie.github.io/AppLab/](https://mrsie.github.io/AppLab/)
+**Du bist Schüler&#42;in** und möchtest in die Lernendenansicht wechseln, dann gehe auf [https://itottogit.github.io/MuskelnUndGelenke/](https://itottogit.github.io/MuskelnUndGelenke/)
 
 
 # Lizenz
