@@ -1,5 +1,4 @@
-# App Labor Einführung
-
+# Muskeln und Gelenke
 Hier findest du eine kurze Einführung in die Benutzeroberfläche des **App Labors** von **Code.org**
 
 ## Registrierung

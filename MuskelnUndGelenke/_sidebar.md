@@ -1,7 +1,7 @@
 * [Home](index.md)
 
-* [Taschenrechner](taschenrechner.md)
+* [Muskeln](taschenrechner.md)
 
-* [Verschlüsselung](verschluesselung.md)
+* [Gelenke](verschluesselung.md)
 
 * [FAQ](FAQ.md)
