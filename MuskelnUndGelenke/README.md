@@ -16,4 +16,6 @@ ist lizenziert unter einer <a rel="license" href="http://creativecommons.org/lic
 
 Die Code-Architektur basiert auf der Vorlage von Julian Dorn alias [wi-wissen](https://github.com/wi-wissen/) unter <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/wi-wissen/informatikschulbuch" rel="dct:source">https://github.com/wi-wissen/informatikschulbuch</a>.
 Julian Dorn hat dankenswerterweise eine Blog-Artikel dazu verfasst wie man [OER Lehrbücher mit Markdown und Git erstellt](https://blog.wi-wissen.de/post/oer-lehrbuecher-mit-markdown-und-git-erstellen).
+Dank an Marc Siemerung (mrsie) für den Tipp!
+
 
