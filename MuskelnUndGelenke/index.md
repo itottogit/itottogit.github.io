@@ -15,7 +15,7 @@ t> Untersuche deinen Lieblingsarm. Was kannst du alles über ihn herausfinden? N
 ## Aufbau des Arms.
 i> Wenn du damit fertig bist, geht es weiter:
 
-Dass man sich selbst umarmen kann, liegt natürlich daran, dass wir Gelenke haben, die dafür sorgen, dass die Arme nicht steif sind, und Muskeln, die für die Bewegung sorgen.
+Dass man sich selbst umarmen kann, liegt natürlich daran, dass wir Knochen, Gelenke und Muskeln haben. Die Knochen geben die Armen Stabilität. Die Gelenke sorgen dafür, dass die Arme nicht steif sind. Die Muskeln sorgen für die Bewegung.
 
 t> sieh dir das nächste Video an:
 ![Untersuchen](img/Untersuchung.mov)
