@@ -10,3 +10,5 @@ Der Ellenbogen und die Schulter – die beiden Gelenke sind sehr verschieden. Au
 t> Zeichne auf einem Blatt Papier ein Strichmännchen. Markiere Gelenke mit roten Punkten, die wie der Ellenbogen nur in einer Ebene bewegbar sind. Markiere Gelenke mit grünen Punkten, die wie die Schulter mehr Bewegungsmöglichkeiten eröffnen. 
 
 i> Probiere das mit deinen eigenen Gelenken aus.
+
+Und übrigens: Wozu so Gelenke gut sein können, zeigt hier der [Pianist Igor Levit](https://twitter.com/igorpianist/status/1244003365849305089?s=20) 
