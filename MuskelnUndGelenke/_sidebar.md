@@ -1,7 +1,7 @@
 * [Home](index.md)
 
-* [Muskeln](taschenrechner.md)
+* [Gelenke](gelenke.md)
 
-* [Gelenke](verschluesselung.md)
+* [Muskeln](muskeln.md)
 
 * [FAQ](FAQ.md)

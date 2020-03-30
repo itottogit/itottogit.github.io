@@ -1,9 +1,13 @@
 # Unterrichtsmaterial für NWT 5. Klasse
 In diesem Repository findest du Unterrichtsmaterial 
 
-Hast du einen Fehler gefunden oder möchtest eine Verbesserung einpflegen, freue ich mich auf einen Pull Request, einen Eintrag unter Issue oder eine klassische [Mail](mailto:torsten.otto@kkg.hamburg.de)
+Hast du einen Fehler gefunden oder möchtest eine Verbesserung einpflegen
+freue ich mich auf einen Pull Request
+einen Eintrag unter Issue oder eine klassische [Mail](mailto:torsten.otto@kkg.hamburg.de)
 
-**Du bist Schüler&#42;in** und möchtest in die Lernendenansicht wechseln, dann gehe auf [https://itottogit.github.io/MuskelnUndGelenke/](https://itottogit.github.io/MuskelnUndGelenke/)
+**Du bist Schüler&#42
+in** und möchtest in die Lernendenansicht wechseln
+dann gehe auf [https://itottogit.github.io/MuskelnUndGelenke/](https://itottogit.github.io/MuskelnUndGelenke/)
 
 
 # Lizenz
